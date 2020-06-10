@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg">
+    <sys_push_notif_msg action="INSERT_OR_UPDATE">
+        <message_string>NeedIt Future Request Update for ${number}</message_string>
+        <name>NeedIt Push Notification Msg</name>
+        <push_app display_value="ServiceNow Request Application">ac7f61d273122300d63a566a4cf6a78b</push_app>
+        <push_message_content display_value="Needit Future Req Push Msg Content">ecab6db41b1d10101167ff37dc4bcb10</push_message_content>
+        <subject/>
+        <sys_class_name>sys_push_notif_msg</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-07 02:20:42</sys_created_on>
+        <sys_id>fddc29b81b1d10101167ff37dc4bcbb1</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>NeedIt Push Notification Msg</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_push_notif_msg_fddc29b81b1d10101167ff37dc4bcbb1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-07 02:48:19</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <type>push</type>
+    </sys_push_notif_msg>
+</record_update>
